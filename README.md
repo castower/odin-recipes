@@ -8,7 +8,7 @@ Repository for The Odin Project recipe project
 June 7, 2023
 
 # Objectives:
-- [] Build basic multi-page website with HTML
-- [] Practice using HTML tags and multi-level headers
-- [] Practice creating links
-- [] Practice adding image with alt-text
+- [x] Build basic multi-page website with HTML
+- [x] Practice using HTML tags and multi-level headers
+- [x] Practice creating links
+- [x] Practice adding image with alt-text
