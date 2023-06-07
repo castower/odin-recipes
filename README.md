@@ -1,7 +1,7 @@
 # odin-recipes
 Repository for The Odin Project recipe project
 
-# Project Number: 
+# Project Number
 1
 
 # Date
@@ -9,7 +9,7 @@ Repository for The Odin Project recipe project
 - End:
 
 # Objectives:
-[] Build basic multi-page website with HTML
-[] Practice using HTML tags and multi-level headers
-[] Practice creating links
-[] Practice adding image with alt-text
+- [] Build basic multi-page website with HTML
+- [] Practice using HTML tags and multi-level headers
+- [] Practice creating links
+- [] Practice adding image with alt-text
