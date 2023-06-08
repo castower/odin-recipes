@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cedarville+Cursive&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Handlee&display=swap');
+
+h1 {
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+h2 {
+    font-family: 'Handlee', cursive;
+}
+
+h3 {
+    font-family: 'Delius Swash Caps', cursive;
+}
+
+p, li {
+    font-family: 'Courier Prime', monospace;
+}
+
+img {
+height: auto;
+width: 642px;
+}
