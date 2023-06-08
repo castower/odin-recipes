@@ -5,7 +5,7 @@ Repository for The Odin Project recipe project
 1
 
 # Date
-June 7, 2023
+June 7, 2023 - June 8, 2023
 
 # Objectives:
 - [x] Build basic multi-page website with HTML
