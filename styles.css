@@ -9,6 +9,13 @@
 
 
 /* Set desired design features */
+body {
+    background-color: #E3DAC9;
+    margin:0;
+    padding:0;
+    border: 0px; 
+}
+
 h1 {
     text-align: center;
     font-family: 'Cedarville Cursive', cursive;
@@ -51,14 +58,6 @@ img {
 
 .pics {
     background-color: #faebd7;
-}
-
-
-body {
-    background-color: #E3DAC9;
-    margin:0;
-    padding:0;
-    border: 0px; 
 }
 
 .bottom {
